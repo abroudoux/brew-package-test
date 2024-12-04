@@ -1,1 +1,1 @@
-# brew-package-test
+# homebrew-hello
